@@ -3,7 +3,7 @@ url: https:// wellgood97.github.io
 
 description: Insert tagline here
 
-permalink: /themes/:title/
+permalink: /themes/:title/dark
 
 plugins: [jekyll-paginate]
 
